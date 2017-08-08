@@ -12,6 +12,7 @@ htc
 
 ```js
  alert("ok");
+  alert("ok");
 ```
 
 ```html
