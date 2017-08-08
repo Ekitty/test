@@ -17,6 +17,6 @@ ddd
 ddd
 
 # DDD
-*dd1
-*dd2
-*dd3
+* dd1
+* dd2
+* dd3
