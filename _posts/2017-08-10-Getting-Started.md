@@ -1,8 +1,8 @@
 ---
 layout: post_layout
 title: 开始篇
-time: 2016年03月05日 星期五
-location: 上海
+time: 2017年08月10日 星期四
+location: 南京
 pulished: true
 excerpt_separator: "```"
 ---
@@ -14,6 +14,6 @@ excerpt_separator: "```"
 此博客布局直接下载了[liungkejin](https://liungkejin.github.io)
 
 
-```Ruby
+```Bash
 echo "你好, Github Pages!";
 ```
