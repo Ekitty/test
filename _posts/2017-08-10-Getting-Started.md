@@ -11,11 +11,9 @@ excerpt_separator: "```"
 
 感谢 [github](https://github.com) 提供的 Github Pages 功能!
 
-此博客布局参考了 [Monkey Snatch Banana](http://www.monkeysnatchbanana.com/) 博客
-
-个人页面应用了 [resumecard](http://ddbullfrog.github.io/resumecard/) 项目
+此博客布局直接下载了[liungkejin](http://liungkejin.github.io/liungkejin)
 
 
-```bash
+```Java
 echo "你好, Github Pages!";
 ```
