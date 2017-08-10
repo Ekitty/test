@@ -3,7 +3,7 @@ title: Liang Ke Jin
 description: Liang Ke Jin
 favicon: /assets/img/avatar.JPG
 baseurl:
-url: https://liungkejin.github.io
+url: http://jseed.top
 rss_url:
 
 # Build settings
@@ -11,7 +11,7 @@ rss_url:
 highlight: true
 #highlighter: rouge
 
-timezone: Asia/Shanghai
+timezone: Asia/NanJing
 
 markdown: kramdown
 kramdown:
