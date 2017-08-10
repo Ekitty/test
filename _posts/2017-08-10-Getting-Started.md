@@ -11,9 +11,9 @@ excerpt_separator: "```"
 
 感谢 [github](https://github.com) 提供的 Github Pages 功能!
 
-此博客布局直接下载了[liungkejin](http://liungkejin.github.io/liungkejin)
+此博客布局直接下载了[liungkejin](https://liungkejin.github.io)
 
 
-```Java
+```Ruby
 echo "你好, Github Pages!";
 ```
