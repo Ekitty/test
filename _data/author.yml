@@ -69,11 +69,11 @@ programmingSkills:
   percentage: 90%
 - ActionSript:
   1 name: Flex MXML
-    platform: PC
-    percentage: 70%
+  platform: PC
+  percentage: 70%
   2 name: AIR
-    platform: Android && IOS
-    percentage: 90%
+  platform: Android && IOS
+  percentage: 90%
 - Bash:
   name: Bash Shell
   percentage: 90%
