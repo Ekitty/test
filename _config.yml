@@ -1,7 +1,7 @@
 # Site settings
 title: Richard Chen
 description: Richard Chen site
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/avatar.png
 baseurl:
 url: http://jseed.top
 rss_url:
