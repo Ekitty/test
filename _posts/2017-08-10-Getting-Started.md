@@ -14,6 +14,6 @@ excerpt_separator: "```"
 此博客布局直接下载了[liungkejin](https://liungkejin.github.io)
 
 
-```Bash
+```ruby
 echo "你好, Github Pages!";
 ```
