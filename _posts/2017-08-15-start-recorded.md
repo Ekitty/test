@@ -7,7 +7,9 @@ pulished: true
 excerpt_separator: "```"
 ---
 
-##Day1
+#Day1
+
+
 现在学习越来越方便，人口红利给我们带来了太多的老师，大家都会在线上共享课程，学习起来超级方便。
 
 今天把 课程[《Linux Guide for Developers》](http://www.imooc.com/learn/181)课程扫尾，
