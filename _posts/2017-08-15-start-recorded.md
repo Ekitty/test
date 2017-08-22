@@ -29,3 +29,7 @@ excerpt_separator: "```"
 * 2017-08-22 11:35:20
  今天把 课程[object-c面向对象初体验](http://www.imooc.com/learn/373)课程学习完成。
      对于基本的语法做了初步的了解。  该课程推荐了 征战object ，我准备先去看看。
+
+ 今天把 课程[征战Objective-C](http://www.imooc.com/learn/218)课程学习完成。
+     第一课oc的故事挺有趣的，其它基本就是跳着看过去了， OC 的实际语法讲的不多，忽略。
+     ∫
